@@ -4,7 +4,7 @@
 **/.gradle
 
 ### Maven ###
-target/
+**/target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -16,3 +16,5 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 **/*.class
+**/*.log
+**/*.log*
