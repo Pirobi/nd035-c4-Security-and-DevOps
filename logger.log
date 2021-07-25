@@ -1,0 +1,2 @@
+2021-07-25 00:05:05.165  WARN 6424 --- [http-nio-8080-exec-1] c.e.demo.controllers.OrderController     : OrderSubmitError: Could not find user with username Foo
+2021-07-25 00:08:19.838  INFO 6424 --- [http-nio-8080-exec-5] c.e.demo.controllers.UserController      : CreateUserSuccess: User name set with Sareeta5
